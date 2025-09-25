@@ -2,7 +2,7 @@
 
 Lightweight trinket manager, updated for Wrath 3.3.5a
 ## Install
-Copy the `TrinketMenu` folder to `Interface/AddOns/` and `/reload`.
+Copy the `TrinketMenu` folder to `Interface/AddOns/`
 
 ## Use
 - `/trinket` — toggle window
