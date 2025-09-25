@@ -1,0 +1,1 @@
+TrinketMenu for WotLK 3.3.5a — Lightweight trinket management by Gello, updated for 30300 with small QoL fixes (anti-hide self-heal, extra slash commands) while preserving original behavior.

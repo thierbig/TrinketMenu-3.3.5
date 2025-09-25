@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: TrinketMenu
+## Author: Gello
+## Notes: AddOn to manage trinkets
+## Version: 3.81-wotlk-3.3.5
+## SavedVariables: TrinketMenuOptions
+## SavedVariablesPerCharacter: TrinketMenuPerOptions, TrinketMenuQueue
+Bindings.xml
+TrinketMenu.lua
+TrinketMenu.xml
+TrinketMenuOpt.lua
+TrinketMenuOpt.xml
+TrinketMenuQueue.lua
+TrinketMenuQueue.xml
