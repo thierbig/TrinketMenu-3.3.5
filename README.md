@@ -1,7 +1,6 @@
 # TrinketMenu (3.3.5a)
 
-Lightweight trinket manager by Gello, updated for Wrath 3.3.5a (Interface 30300).
-
+Lightweight trinket manager, updated for Wrath 3.3.5a
 ## Install
 Copy the `TrinketMenu` folder to `Interface/AddOns/` and `/reload`.
 
