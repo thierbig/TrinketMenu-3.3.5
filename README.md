@@ -1,8 +1,10 @@
-# TrinketMenu (3.3.5a)
+# TrinketMenu (3.3.5)
 
 Lightweight trinket manager, updated for Wrath 3.3.5a
-## Install
-Copy the `TrinketMenu` folder to `Interface/AddOns/`
+
+## Installation
+- Download the repository ZIP and extract the `TrinketMenu` folder into `Interface/AddOns/`.
+- Use the direct link: [Download ZIP](https://github.com/thierbig/TrinketMenu-3.3.5//archive/refs/heads/main.zip)
 
 ## Use
 - `/trinket` — toggle window
